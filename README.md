@@ -5,7 +5,7 @@ Compatibility-based "FriendFinder" application -- basically a dating app. This a
 ![Friend Finder Home Page](https://github.com/sjosevich/friend-finder-node-and-express-servers/blob/master/FriendFinder/images/Capture.PNG)
 
 ### New Friend Modal
-![Friend Finder Home Page](https://github.com/sjosevich/friend-finder-node-and-express-servers/blob/master/FriendFinder/images/Capture1.PNG)
+![Friend Finder Home Page](https://github.com/sjosevich/friend-finder-node-and-express-servers/blob/master/FriendFinder/images/Capture2.PNG)
 
 ##### Technologies Used
 * **JavaScript**
