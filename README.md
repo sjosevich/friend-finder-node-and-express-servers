@@ -6,3 +6,14 @@ Compatibility-based "FriendFinder" application -- basically a dating app. This a
 
 ### New Friend Modal
 ![Friend Finder Home Page](https://github.com/sjosevich/friend-finder-node-and-express-servers/blob/master/FriendFinder/images/Capture1.PNG)
+
+##### Technologies Used
+* **JavaScript**
+* **jQuery**
+* **AJAX**
+* **Node.js**
+* **Express**
+
+##### The following npm modules were used
+* **express**
+* **path**
